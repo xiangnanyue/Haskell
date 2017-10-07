@@ -1,0 +1,19 @@
+1.a course of wsu
+https://courses.cs.washington.edu/courses/cse341/08au/haskell/
+
+2.to install the stack of haskell
+https://docs.haskellstack.org/en/stable/README/
+3.a course about haskell of Stanford
+http://www.scs.stanford.edu/16wi-cs240h/
+4.a course about haskell in upenn
+https://www.seas.upenn.edu/~cis194/fall16/
+
+you can either use 
+>ghc --make hello
+>./hello
+to compile and execute the code hello.hs
+
+or use ghci to load and execute the code interactively
+>ghci hello.hs
+>main
+
