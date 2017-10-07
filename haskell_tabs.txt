@@ -1,0 +1,11 @@
+﻿https://courses.cs.washington.edu/courses/cse341/08au/haskell/
+https://www.haskell.org/
+https://www.seas.upenn.edu/~cis194/fall16/
+http://www.scs.stanford.edu/16wi-cs240h/
+http://www.scs.stanford.edu/16wi-cs240h/sched/
+http://www.scs.stanford.edu/16wi-cs240h/slides/
+http://www.scs.stanford.edu/16wi-cs240h/slides/basics.html
+https://datascience-x-master-paris-saclay.fr/
+https://github.com/xiangnanyue?tab=repositories
+https://www.google.fr/search?q=what+is+tail+recursion&oq=what+is+tail+recursion&aqs=chrome..69i57j0l5.4038j0j7&sourceid=chrome&ie=UTF-8
+https://stackoverflow.com/questions/33923/what-is-tail-recursion

@@ -74,7 +74,6 @@ myflatten (List (x:xs)) = myflatten x ++ myflatten (List xs)
 {-
 compress '(a a a a b c c a a d e e e e)
 -}
+compress :: Eq a => [a] -> [a]
+compress = map head . group
 
-compress :: [a] -> [a]
-
-compress []
