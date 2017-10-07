@@ -22,15 +22,15 @@ you can either use
 to compile and execute the code hello.hs
 
 or use ghci to load and execute the code interactively
->>ghci hello.hs
->>main
+>ghci hello.hs
+>main
 
 Tips:
 you can open some tabs in chrome, in haskell_tabs.txt
 by pasting and running the following codes:
 
->>while read A; do
->>        echo "open", $A
->>        open -a /Applications/Google\ Chrome.app $A
->>done < $@
+>while read A; do
+>        echo "open", $A
+>        open -a /Applications/Google\ Chrome.app $A
+>done < $@
 
