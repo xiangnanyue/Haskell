@@ -1,3 +1,6 @@
+0.if you want to know about functional programming theory,
+read curryHoward.pdf, the lecture note in french.
+
 1.a course of wsu
 https://courses.cs.washington.edu/courses/cse341/08au/haskell/
 
@@ -7,6 +10,9 @@ https://docs.haskellstack.org/en/stable/README/
 http://www.scs.stanford.edu/16wi-cs240h/
 4.a course about haskell in upenn
 https://www.seas.upenn.edu/~cis194/fall16/
+
+5.if you want to read a book about haskell, read this
+http://book.realworldhaskell.org/read/
 
 you can either use 
 >ghc --make hello
